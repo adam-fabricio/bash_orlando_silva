@@ -1,0 +1,30 @@
+1;Primeiro Programa1
+2;Variaveis, entrada e saida de dados
+3;Variaveis e parâmetros de entrada
+4;Execução de Comandos
+5;Condições (1) - if test
+6;Condições (2) - if []
+7;Condições (3) - if e else
+8;Condições (4) - if, elif e else
+9;Loop (1) - for (1)
+10;Loop (2) - for (2)
+11;Loop (3) - for (3)
+12;Loop (4) - While (1)
+13;Loop (5) - while (2)
+14;Loop (6) - until
+15;Condições (5) - case (1)
+16;Condições (6) - case (2)
+17;Função (1) - Chamada de função
+18;Função (2) - Variaveis Local e Global
+19;Funçaõ (3) - Passagem de parâmetros
+20;Loop (7) - Controlo de execução (1) - break
+21;Loop (8) - Controle de execução (2) - Continue
+22;variaveis avaliar (1)
+23;variaveis avaliar (2)
+24;Programa auxiliar do 25 - printa variaveis
+25;exporta variaveis para outro Programa
+26;uso do set
+27;uso do shift
+28;Expansão de Parâmetros (1)
+29;Renomeia txt para doc
+30;Renomeia doc para txt
